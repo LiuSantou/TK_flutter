@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Liu Bei",
+    "attack": 80,
+    "defense": 75,
+    "health": 100,
+    "skills": [
+      { "id": 1, "name": "Benevolence", "moraleCost": 30 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Guan Yu",
+    "attack": 95,
+    "defense": 85,
+    "health": 120,
+    "skills": [
+      { "id": 2, "name": "God of War", "moraleCost": 40 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Zhang Fei",
+    "attack": 90,
+    "defense": 80,
+    "health": 110,
+    "skills": [
+      { "id": 3, "name": "Warrior's Roar", "moraleCost": 35 }
+    ]
+  }
+]
